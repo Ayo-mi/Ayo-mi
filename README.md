@@ -59,4 +59,3 @@ I’m passionate about building scalable web and mobile applications, designing 
 ---
 
 ✨ *“Code + AI = The future. Build it, don’t just use it.”*
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
