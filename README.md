@@ -9,8 +9,8 @@ I’m passionate about building scalable web and mobile applications, designing 
 ## 🛠️ Tech Stack  
 
 ### 💻 Backend  
-- **Languages**: C#, PHP, Kotlin, Typescript  
-- **Frameworks**: .NET (Web API, Clean Architecture), Laravel, Nest.js  
+- **Languages**: C#, Python, PHP, Kotlin, Typescript  
+- **Frameworks**: .NET (Web API, Clean Architecture), FastAPI, Laravel, Nest.js  
 - **APIs**: RESTful APIs, GraphQL  
 - **Auth**: Blockchain-based authentication, OAuth2, JWT  
 
